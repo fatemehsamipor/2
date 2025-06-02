@@ -1,0 +1,1 @@
+var json_asnaf_3 = {"type":"FeatureCollection","name":"asnaf_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":1.0,"asnaf":null},"geometry":{"type":"Point","coordinates":[50.155956345470948,37.186589324719336]}}]}

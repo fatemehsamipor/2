@@ -1,0 +1,1 @@
+var json_sinam_24 = {"type":"FeatureCollection","name":"sinam_24","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":1.0,"sinama":"azadi"},"geometry":{"type":"Point","coordinates":[50.154496102776704,37.192028992277521]}}]}

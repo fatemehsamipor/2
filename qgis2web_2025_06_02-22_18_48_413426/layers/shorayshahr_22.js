@@ -1,0 +1,1 @@
+var json_shorayshahr_22 = {"type":"FeatureCollection","name":"shorayshahr_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":1.0,"shora":"shoray shahr"},"geometry":{"type":"Point","coordinates":[50.155886211320258,37.190204393643825]}}]}
